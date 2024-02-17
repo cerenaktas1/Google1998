@@ -1,0 +1,42 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+
+
+.içerik{
+    border:0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 90%;
+}
+
+.search {
+    background:rgb(238,238,238);
+    width: 100%;
+    
+}
+
+.bol1{
+    background:rgb(126,229,218);
+    width: 37%;
+}
+
+.bol2{
+    background:rgb(112,204,194);
+    font-size:smaller;
+}
+
+.bol3{
+    background: rgb(98,179,170);
+    padding: 0px;
+    
+}
+p{
+    font-size:15px;
+    text-align: center;
+
+}
